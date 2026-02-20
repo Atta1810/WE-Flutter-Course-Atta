@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main() {
+  int nz = 0;
   String z = "OIL";
   int pz = 30;
   int nx = 0;
