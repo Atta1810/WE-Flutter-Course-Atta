@@ -35,7 +35,7 @@ If you want to try out any of the tasks locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone [https://github.com/Atta1810/WE-Flutter-Course-Atta](https://github.com/Atta1810/WE-Flutter-Course-Atta)
     ```
 2.  **Navigate to the specific task folder:**
     ```bash
