@@ -23,8 +23,9 @@ This repository serves as a personal portfolio to track my progress, store my co
 
 | Task Name | Description | Status |
 | :--- | :--- | :---: |
-| **01_products** | A clean, responsive login/signup screen with validation. | ✅ Done |
-| **02_simple cashier** | A logic-based app that handles multiple-choice questions. | ✅ Done |
+| **01_products** | Making the user do some opreations on some products. | ✅ Done |
+| **02_simple cashier** | Asking the user for the amounts of products and make sale on it. | ✅ Done |
+| **03_List Task** | Making the user create his own list and do some operations on it.  | ✅ Done |
 
 ---
 
