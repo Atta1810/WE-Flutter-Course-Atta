@@ -3,7 +3,7 @@ import 'dart:io';
 void main() {
   List<int> mylist = [];
   String opt = "Y";
-  while (opt.toUpperCase() == "Y") {
+  while (opt == "Y" || opt=="y") {
     print("--- Select an option ---");
     print("1. Add value");
     print("2. Remove value");
