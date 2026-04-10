@@ -26,6 +26,8 @@ This repository serves as a personal portfolio to track my progress, store my co
 | **01_products** | Making the user do some opreations on some products. | ✅ Done |
 | **02_simple cashier** | Asking the user for the amounts of products and make sale on it. | ✅ Done |
 | **03_List Task** | Making the user create his own list and do some operations on it.  | ✅ Done |
+| **04_Map Task** | Making the user enter the number of students and the degrees in subjects and show if pass or not.  | ✅ Done |
+| **05_OOP Task** | Making the user enter some cars and its properties.  | ✅ Done |
 
 ---
 
